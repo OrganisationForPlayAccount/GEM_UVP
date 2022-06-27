@@ -1,3 +1,6 @@
 [submodule "BASE"]
 	path = BASE
 	url = https://github.com/OrganisationForPlayAccount/BASE.git
+[submodule "LAP"]
+	path = LAP
+	url = https://github.com/OrganisationForPlayAccount/LAP.git
